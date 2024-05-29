@@ -1,0 +1,3 @@
+The folder structure should match the structure in the image "instructions_to_run"
+I have added the training data and test images, so the program would not need to be retrained
+Follow the instructions in the main.py file
